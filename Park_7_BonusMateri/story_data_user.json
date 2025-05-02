@@ -1,0 +1,30 @@
+[
+    {
+        "limit": 0,
+        "table_name": "address"
+    },
+    {
+        "limit": 1,
+        "table_name": "cart"
+    },
+    {
+        "limit": 2,
+        "table_name": "cc"
+    },
+    {
+        "limit": 3,
+        "table_name": "email"
+    },
+    {
+        "limit": 4,
+        "table_name": "name"
+    },
+    {
+        "limit": 5,
+        "table_name": "pass"
+    },
+    {
+        "limit": 6,
+        "table_name": "phone"
+    }
+]
